@@ -17,10 +17,10 @@ class Alumno extends Persona
     {
         echo 'Mi promedio es '. $this ->calcularPromedio(). '<br>';
         echo '<br>';
-        echo '<br>';
+        echo '<br>' ;
 
     }
      
-    
+
 }
 ?>
